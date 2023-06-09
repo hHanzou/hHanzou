@@ -2,7 +2,7 @@
 
 I am a passionate individual eager to introduce myself. At 19 years old, I am actively engaged in studying programming and pursuing a degree in Software Engineering. My goal is to master my skills in programming and become proficient in various programming languages and frameworks. I am determined to excel in the field of software development and contribute to innovative projects.
 
-- 🌱 I’m currently learning NodeJS and API Development in PHP
+- 🌱 I’m currently learning React.js and Wordpress!
 
 ##
 <div align="center">
